@@ -1,4 +1,4 @@
-#[live](https://drag-drop-beta.vercel.app/)
+# [live](https://drag-drop-beta.vercel.app/)
 
 # Getting Started with Create React App
 
